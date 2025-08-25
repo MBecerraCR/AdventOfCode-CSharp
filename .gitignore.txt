@@ -1,0 +1,11 @@
+# Binaries and object files
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Other files
+*.suo
+*.user
+*.log
+*.vspscc
